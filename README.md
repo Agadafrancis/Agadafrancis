@@ -22,14 +22,12 @@ Feel free to connect with me and explore my projects here on GitHub!
 ### Connect with me:
 
 [![website](./img/twitter-light.svg)](https://twitter.com/agadafrancisl)
-[![website](./img/twitter-dark.svg)](https://twitter.com/agadafrancisl)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+[![website](./img/github-light.svg)](https://codestackr.com#gh-light-mode-only)
 
+
+[![twitter](./img/twitterx.png)](https://twitter.com/agadafrancisl)
+[![Linkedin](./img/linkedin.png)](https://www.linkedin.com/in/francis-agada-2295471a0/)
+[![Instagram](./img/instagram.png)](https://www.instagram.com/agadafrancisl/)
 
 
 
