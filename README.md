@@ -12,6 +12,10 @@ I wear multiple hats in the tech world, and here's a bit about me:
 •
 <a href="https://github.com/Agadafrancis/Nextjs-Blog" target="_blank">Blog Website with Next.js and Sanity</a>
 •
+<a href="https://github.com/Agadafrancis/airbnb-clone" target="_blank">Airbnb clone</a>
+•
+<a href="https://github.com/Agadafrancis/threads" target="_blank">Threads clone</a>
+•
 
 ### Goals:
 
@@ -21,23 +25,19 @@ I wear multiple hats in the tech world, and here's a bit about me:
 
 ### Languages and Tools:
 Leveraging the power of cutting-edge technologies:
-- **Next.js & TypeScript**: 
-- **Svix & Uploadthing**: 
-- **MongoDB & React.js**: 
-- **Clerk & Tailwind CSS**, - **Zod**
-[<img align="left" alt="Next.js" width="26px" src="./icons/next.png"/>]
-[<img align="left" alt="Firebase" width="26px" src="./icons/firebase2.png"/>]
-[<img align="left" alt="CSS3" width="26px" src="./icons/css.png"/>]
-[<img align="left" alt="JavaScript" width="26px" src="./icons/js.png" />]
-[<img align="left" alt="React" width="26px" src="./icons/react.png"/>]
-[<img align="left" alt="Node.js" width="26px" src="./icons/node.png"/>]
-[<img align="left" alt="Github" width="26px" src="./icons/github.png" style="padding-right:10px;" />]
-[<img align="left" alt="Sanity" width="26px" src="./icons/sanity.png" style="padding-right:10px;" />]
-[<img align="left" alt="Tailwind" width="26px" src="./icons/tailwind.png" style="padding-right:10px;" />]
-[<img align="left" alt="Express js" width="26px" src="./icons/express.png" style="padding-right:10px;" />]
-[<img align="left" alt="Mongo DB" width="26px" src="./icons/mongodb.png" style="padding-right:10px;" />]
-[<img align="left" alt="Redux" width="26px" src="./icons/redux.png" style="padding-right:10px;" />]
-[<img align="left" alt="VS code" width="26px" src="./icons/vscode.png" />]
+- **JavaScript**
+- **Next.js & TypeScript** 
+- **React.js & React Hook form**
+- **Node.js & Express.js**
+- **MongoDB & Firebase** 
+- **Clerk & Tailwind CSS**
+- **Zod & Sanity.io**
+- **GitHub & Visual Studio Code**
+- **Svix & Uploadthing**
+- **Bootstrap & Redux**
+- **PHP & Prisma**
+- **HTML5 & CSS3**
+
 <br />
 <br />
 ### Beyond Tech:
