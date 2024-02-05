@@ -15,11 +15,16 @@ I wear multiple hats in the tech world, and here's a bit about me:
 
 ### Goals:
 
-- 🥅 My 2023 goal is to dive deeper into Fullstack web development using React and Next.js.
-- 🔭 Looking ahead to 2024, I aspire to master penetration testing and white hat hacking.
+- 🥅 My 2024 goal is to dive deeper into Fullstack web development using React and Next.js.
+- 🔭 Looking ahead to the end of 2024, I aspire to master penetration testing and white hat hacking.
 
 
 ### Languages and Tools:
+Leveraging the power of cutting-edge technologies:
+- **Next.js & TypeScript**: 
+- **Svix & Uploadthing**: 
+- **MongoDB & React.js**: 
+- **Clerk & Tailwind CSS**, - **Zod**
 [<img align="left" alt="Next.js" width="26px" src="./icons/next.png"/>]
 [<img align="left" alt="Firebase" width="26px" src="./icons/firebase2.png"/>]
 [<img align="left" alt="CSS3" width="26px" src="./icons/css.png"/>]
