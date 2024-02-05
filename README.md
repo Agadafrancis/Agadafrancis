@@ -38,8 +38,7 @@ Leveraging the power of cutting-edge technologies:
 - **PHP & Prisma**
 - **HTML5 & CSS3**
 
-<br />
-<br />
+
 ### Beyond Tech:
 
 - ⚽ I'm a football enthusiast. Check out my journey on Instagram: [agadafrancisl](https://www.instagram.com/agadafrancisl/).
